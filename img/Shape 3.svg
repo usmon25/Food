@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 24" width="25" height="24">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-885 -3744L1035 -3744L1035 1729L-885 1729Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffba40 } 
+	</style>
+	<g id="Food" clip-path="url(#cp1)">
+		<g id="Body">
+			<g id="Popular Menu">
+				<g id="Chicken Chilli">
+					<g id="Text">
+						<path id="Shape 3" class="shp0" d="M23 9.59C22.94 9.41 22.78 9.27 22.59 9.24L15.95 8.28L12.97 2.27C12.83 2.02 12.5 1.93 12.25 2.08C12.17 2.12 12.1 2.19 12.05 2.27L9.08 8.28L2.44 9.25C2.16 9.29 1.97 9.55 2.01 9.83C2.02 9.94 2.07 10.04 2.16 10.12L6.97 14.8L5.83 21.4C5.78 21.68 5.97 21.94 6.25 21.99C6.36 22.01 6.47 21.99 6.57 21.94L12.51 18.82L18.45 21.94C18.62 22.03 18.83 22.02 18.99 21.9C19.15 21.79 19.23 21.59 19.2 21.4L18.06 14.8L22.87 10.12C23.01 9.98 23.06 9.78 23 9.59L23 9.59Z" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
